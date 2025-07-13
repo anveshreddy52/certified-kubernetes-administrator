@@ -1,4 +1,4 @@
-# Certified Kubernetes Administrator Tutorials 2023
+ho# Certified Kubernetes Administrator Tutorials 2023
 This repository contains all the files related to the [Certified Kubernetes Administrator Tutorials 2023](https://www.youtube.com/playlist?list=PLY63ZQr2Y5BHkJJhwPjJuJ41CIyv3m7Ru). In this tutorial series, you will learn about the basics of Kubernetes, its control plane components, how to set up a Kubernetes cluster, and various other topics related to Kubernetes administration.
 
 ## Topics Covered
@@ -37,5 +37,5 @@ The following topics are covered in this tutorial series:
 ### 31. [Kubernetes MultiContainer & InitContainer Pods](https://youtu.be/9NTr6EFmxkI)
 ### 32. [RBAC in Kubernetes](https://youtu.be/MGCF6slXG0w)
 ### 33. [Service Account](https://youtu.be/406g4nozS_o)
-### 34. [Security Context](https://youtu.be/4a_9zflKxqs
+### 34. [Security Context](https://youtu.be/4a_9zflKxqs)
 ### 35 
